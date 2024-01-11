@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/Q0K8ToL.png" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/KKp1HS7/ozkan-banner.png" align="center" style="width: 100%" />
 </div>  
   
 
