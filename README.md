@@ -70,29 +70,9 @@
 
 
 ## Github Stats  
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozkanozkan-dev&show_icons=true&locale=en&layout=compact" alt="ozkanozkan-dev" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ozkanozkan-dev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ozkanozkan-dev&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>
