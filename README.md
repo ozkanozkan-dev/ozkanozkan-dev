@@ -14,13 +14,10 @@
 &nbsp;  
   
 
-- 🔭 I am currently working on personnel management projects in Turkey.  
+- 🔭 Şu anda Ankara'da yaşamaktayım ve crm, erp ve personel yönetimi projeleri üzerinde çalışıyorum.
   
 
-- 💬 Ask me about C#, .net  
-  
-
-- 📄 Know about my experiences https://linkedin.com/in/ozkanozkan  
+- 💬 C# ve .NET üzerine çalışıyorum.
   
 
 <br/>  
